@@ -85,3 +85,6 @@
     }
 }
 ```
+6. See my expiriense in https://github.com/ASmirnovBY/JavaTraining
+7. Belarusian State University of Informatics and Radioelectronics 2016, Java WEB (Epam training not finished)
+8. English A2
